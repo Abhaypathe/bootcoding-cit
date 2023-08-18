@@ -14,7 +14,7 @@ public class InputEX {
         int add = n+ m;
         System.out.println( "Addition = " + add);
         int sub = n-m;
-        System.out.println(" substraction= " + add);
+        System.out.println(" substraction= " + sub);
         int mul= n* m;
         System.out.println(" multiplication =" + mul);
         int div= n/m ;
